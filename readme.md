@@ -1,4 +1,5 @@
 # 🚴‍♂️ Bike Rental Prediction using Polynomial Regression
+My app link:https://polynomial-regression-nc7nh5a3ofo8aqrl6hk485.streamlit.app/
 
 This project applies **Polynomial Regression** to predict bike rental counts based on **temperature**.  
 The dataset used is `bike_poly.csv`, and all steps are implemented in the notebook `task.ipynb`.
@@ -34,7 +35,16 @@ A city bike-sharing company wants to predict **demand** based on **temperature**
 ![Actual vs Predicted](output1.png)
 
 ### 2️⃣ Polynomial Regression Fit
-!["The Scatter Plot Between Predicted And True Value](output.png)
+![Polynomial Regression Fit](output.png)
+
+---
+
+## 🖥️ Streamlit App
+
+You can also interact with the model using this **Streamlit app**:
+
+![Streamlit App Screenshot](streamlit_screenshot.png)
+
 
 ---
 
