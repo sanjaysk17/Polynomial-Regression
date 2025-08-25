@@ -8,5 +8,5 @@ num=scaler.transform([[num]])
 op=model.predict(num)
 button=st.button("Predict Bike Rental")
 if button:
-    st.write("Your Bike Rental is",op)
+    st.write("Your Bike Rental Charge is",op)
 
