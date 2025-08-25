@@ -43,7 +43,7 @@ A city bike-sharing company wants to predict **demand** based on **temperature**
 
 You can also interact with the model using this **Streamlit app**:
 
-![Streamlit App Screenshot](Screenshot%202025-08-25%20115720.png)
+![Streamlit App Screenshot](Screenshot%202025-08-25%20132700.png)
 
 
 ---
