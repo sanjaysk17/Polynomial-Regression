@@ -6,6 +6,7 @@ st.title("Bike Rental Prediction")
 num=st.number_input("Enter a Temperature ")
 num=scaler.transform([[num]])
 op=model.predict(num)
-st.button("Predict Bike Rental")
-st.write("Your Bike Rental is",op)
+button=st.button("Predict Bike Rental")
+if button:
+    st.write("Your Bike Rental is",op)
 
